@@ -1,4 +1,4 @@
-# Assesment-Code
+# BlockBanking
 
 ## SBIP :
         The chaincode implementation 
